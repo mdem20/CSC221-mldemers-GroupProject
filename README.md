@@ -9,3 +9,4 @@ __Webscraped URL:__ [Wiki Page for Best Selling Music Artists](https://en.wikipe
 
 __Collaborators:__
   - Denitri Douglas
+Accepted: <4/26/2021>
